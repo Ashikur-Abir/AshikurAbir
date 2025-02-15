@@ -1,4 +1,5 @@
-<h1 align="center">👋 Hi, I’m Ashik! Aspiring Blockchain Developer 🚀 | Just starting with programming basics 🌱 | Excited to explore Web3! 🌐 Ashikur Rahman</h1>
+[![MasterHead](https://miro.medium.com/max/1400/1*OxT7UjIwhklKE8d8SFyo7g.gif)]
+<h1 align="center">👋 Hi, I’m Ashikur Rahman! Aspiring Blockchain Developer 🚀 | Just starting with programming basics 🌱 | Excited to explore Web3! 🌐 </h1>
 <h3 align="center">Aspiring Blockchain Developer 🚀 | Just starting with programming basics 🌱 | Excited to explore Web3! 🌐</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
