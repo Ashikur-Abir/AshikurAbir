@@ -1,5 +1,5 @@
-[![MasterHead](https://miro.medium.com/max/1400/1*OxT7UjIwhklKE8d8SFyo7g.gif)]
-<h1 align="center"> Hi 👋, I’m Ashikur Rahman!</h1>
+![Banner](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif)
+![Hey typed effect](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=25&pause=1000&width=435&lines=Hey+there%2C+I'm+Ashikur+Rahman!+%F0%9F%91%8B)
 <h3 align="center">Aspiring Blockchain Developer 🚀 | Just starting with programming basics 🌱 | Excited to explore Web3! 🌐</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
